@@ -1,0 +1,486 @@
+apriori
+{Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('apriori', 'E:\My_folder\Applied Machine Learning CogSci\Assignment3\apriori.m', 2)" style="font-weight:bold">apriori</a> (<a href="matlab: opentoline('E:\My_folder\Applied Machine Learning CogSci\Assignment3\apriori.m',2,0)">line 2</a>)
+s =support; % support threshold value
+} 
+assignment
+Dataset consists of gaze streams with multiple categorical values
+Different categories indicate different region?of?interest
+Categories 1-25 are indicated by A -Y
+Please provide support threshold value eg. 2 : 2
+Please provide confidence threshold value eg. 0.5 : 0.5
+The support threshold is: 2
+The confidence threshold is: 0.5
+----------------------
+-------New File-------
+cevent_eye_roi_child_16963.mat
+*** Association rule 2-itemset: F->J with confidence level: 1
+    "Thus child goes from :"    "snowman"    "->"    "hammer"
+
+Association rejected : J->O with confidence level: 0.17
+Association rejected : J->B with confidence level: 0.17
+Association rejected : X->Q with confidence level: 0.33
+Association rejected : X->V with confidence level: 0.33
+Association rejected : R->U with confidence level: 0.29
+Association rejected : O->W with confidence level: 0.24
+Association rejected : O->U with confidence level: 0.12
+Association rejected : O->A with confidence level: 0.18
+Association rejected : B->I with confidence level: 0.3
+Association rejected : B->E with confidence level: 0.2
+Association rejected : M->U with confidence level: 0.3
+Association rejected : N->V with confidence level: 0.18
+Association rejected : N->E with confidence level: 0.18
+Association rejected : Q->V with confidence level: 0.25
+Association rejected : H->P with confidence level: 0.4
+--------------------------------------
+Association rejected : FJ->B with confidence level: 0.4
+Association rule not established for 3-itemsets
+----------------------
+-------New File-------
+cevent_eye_roi_child_17608.mat
+Association rejected : F->R with confidence level: 0.18
+Association rejected : F->P with confidence level: 0.18
+Association rejected : F->E with confidence level: 0.27
+Association rejected : R->G with confidence level: 0.15
+Association rejected : R->M with confidence level: 0.15
+Association rejected : R->K with confidence level: 0.15
+Association rejected : R->J with confidence level: 0.15
+Association rejected : Q->O with confidence level: 0.13
+Association rejected : Q->M with confidence level: 0.13
+Association rejected : Q->J with confidence level: 0.19
+Association rejected : Q->A with confidence level: 0.19
+Association rejected : O->A with confidence level: 0.32
+Association rejected : O->W with confidence level: 0.16
+*** Association rule 2-itemset: T->C with confidence level: 0.57
+    "Thus child goes from :"    "whitecar"    "->"    "bluecar"
+
+Association rejected : C->J with confidence level: 0.2
+Association rejected : C->D with confidence level: 0.2
+Association rejected : P->E with confidence level: 0.33
+Association rejected : B->J with confidence level: 0.27
+Association rejected : V->J with confidence level: 0.25
+Association rejected : M->X with confidence level: 0.22
+Association rejected : K->U with confidence level: 0.29
+Association rejected : X->A with confidence level: 0.33
+Association rejected : Y->J with confidence level: 0.44
+Association rejected : U->A with confidence level: 0.25
+Association rule not established for 3-itemsets
+----------------------
+-------New File-------
+cevent_eye_roi_child_17757.mat
+Association rejected : V->W with confidence level: 0.33
+Association rejected : U->M with confidence level: 0.33
+Association rejected : M->R with confidence level: 0.29
+Association rejected : X->J with confidence level: 0.13
+Association rejected : X->B with confidence level: 0.13
+Association rejected : X->T with confidence level: 0.13
+Association rejected : X->O with confidence level: 0.13
+Association rejected : J->N with confidence level: 0.15
+Association rejected : J->O with confidence level: 0.15
+Association rejected : J->L with confidence level: 0.15
+Association rejected : R->W with confidence level: 0.29
+Association rejected : W->G with confidence level: 0.15
+Association rejected : W->T with confidence level: 0.15
+Association rejected : W->O with confidence level: 0.15
+Association rejected : B->T with confidence level: 0.17
+Association rejected : B->Q with confidence level: 0.25
+Association rejected : K->L with confidence level: 0.22
+Association rejected : I->C with confidence level: 0.5
+Association rejected : G->T with confidence level: 0.17
+Association rejected : F->T with confidence level: 0.25
+Association rejected : F->O with confidence level: 0.25
+Association rejected : T->Q with confidence level: 0.17
+Association rejected : T->H with confidence level: 0.11
+Association rejected : A->H with confidence level: 0.33
+Association rule NOT established for 2-itemsets
+Association rule not established for 3-itemsets
+----------------------
+-------New File-------
+cevent_eye_roi_child_17782.mat
+Association rejected : P->B with confidence level: 0.33
+Association rejected : P->O with confidence level: 0.33
+*** Association rule 2-itemset: F->O with confidence level: 0.67
+    "Thus child goes from :"    "snowman"    "->"    "doll"
+
+Association rejected : B->O with confidence level: 0.43
+Association rejected : W->H with confidence level: 0.33
+Association rejected : W->O with confidence level: 0.33
+*** Association rule 2-itemset: H->O with confidence level: 0.63
+    "Thus child goes from :"    "spongebob"    "->"    "doll"
+
+Association rejected : O->N with confidence level: 0.083
+Association rule not established for 3-itemsets
+----------------------
+-------New File-------
+cevent_eye_roi_child_17874.mat
+Association rejected : O->C with confidence level: 0.33
+Association rejected : O->K with confidence level: 0.33
+Association rejected : C->U with confidence level: 0.27
+Association rejected : G->Q with confidence level: 0.19
+Association rejected : G->B with confidence level: 0.19
+Association rejected : G->P with confidence level: 0.25
+Association rejected : G->A with confidence level: 0.13
+Association rejected : Q->B with confidence level: 0.26
+Association rejected : Q->U with confidence level: 0.23
+Association rejected : Q->H with confidence level: 0.065
+Association rejected : Q->D with confidence level: 0.065
+Association rejected : Q->V with confidence level: 0.097
+Association rejected : B->E with confidence level: 0.12
+Association rejected : B->U with confidence level: 0.24
+Association rejected : K->E with confidence level: 0.33
+Association rejected : E->U with confidence level: 0.3
+Association rejected : S->R with confidence level: 0.4
+Association rejected : U->A with confidence level: 0.074
+Association rejected : U->H with confidence level: 0.19
+Association rejected : J->A with confidence level: 0.2
+Association rule NOT established for 2-itemsets
+Association rule not established for 3-itemsets
+----------------------
+-------New File-------
+cevent_eye_roi_child_18796.mat
+Association rejected : Q->A with confidence level: 0.29
+Association rejected : B->F with confidence level: 0.25
+Association rejected : B->T with confidence level: 0.25
+Association rejected : F->W with confidence level: 0.14
+Association rejected : F->A with confidence level: 0.21
+Association rejected : N->V with confidence level: 0.38
+Association rejected : W->Y with confidence level: 0.18
+Association rejected : W->T with confidence level: 0.18
+Association rejected : W->O with confidence level: 0.27
+Association rejected : P->Y with confidence level: 0.5
+Association rejected : Y->V with confidence level: 0.25
+Association rejected : V->J with confidence level: 0.13
+Association rejected : V->I with confidence level: 0.13
+Association rejected : V->X with confidence level: 0.13
+Association rejected : T->O with confidence level: 0.29
+*** Association rule 2-itemset: I->A with confidence level: 0.6
+    "Thus child goes from :"    "turtle"    "->"    "helmet"
+
+Association rejected : U->K with confidence level: 0.2
+Association rejected : O->A with confidence level: 0.2
+Association rejected : D->K with confidence level: 0.33
+*** Association rule 2-itemset: G->A with confidence level: 0.67
+    "Thus child goes from :"    "rabbit"    "->"    "helmet"
+
+Association rule not established for 3-itemsets
+assignment
+Dataset consists of gaze streams with multiple categorical values
+Different categories indicate different region?of?interest
+Categories 1-25 are indicated by A -Y
+Please provide support threshold value eg. 2 : 2
+Please provide confidence threshold value eg. 0.5 : 0.5
+The support threshold is: 2
+The confidence threshold is: 0.5
+----------------------
+-------New File-------
+cevent_eye_roi_child_16963.mat
+*** Association rule 2-itemset: F->J with confidence level: 1
+    "Thus child goes from :"    "snowman"    "->"    "hammer"
+
+Association rejected : J->O with confidence level: 0.17
+Association rejected : J->B with confidence level: 0.17
+Association rejected : X->Q with confidence level: 0.33
+Association rejected : X->V with confidence level: 0.33
+Association rejected : R->U with confidence level: 0.29
+Association rejected : O->W with confidence level: 0.24
+Association rejected : O->U with confidence level: 0.12
+Association rejected : O->A with confidence level: 0.18
+Association rejected : B->I with confidence level: 0.3
+Association rejected : B->E with confidence level: 0.2
+Association rejected : M->U with confidence level: 0.3
+Association rejected : N->V with confidence level: 0.18
+Association rejected : N->E with confidence level: 0.18
+Association rejected : Q->V with confidence level: 0.25
+Association rejected : H->P with confidence level: 0.4
+--------------------------------------
+Association rejected : FJ->B with confidence level: 0.4
+Association rule not established for 3-itemsets
+----------------------
+-------New File-------
+cevent_eye_roi_child_17608.mat
+Association rejected : F->R with confidence level: 0.18
+Association rejected : F->P with confidence level: 0.18
+Association rejected : F->E with confidence level: 0.27
+Association rejected : R->G with confidence level: 0.15
+Association rejected : R->M with confidence level: 0.15
+Association rejected : R->K with confidence level: 0.15
+Association rejected : R->J with confidence level: 0.15
+Association rejected : Q->O with confidence level: 0.13
+Association rejected : Q->M with confidence level: 0.13
+Association rejected : Q->J with confidence level: 0.19
+Association rejected : Q->A with confidence level: 0.19
+Association rejected : O->A with confidence level: 0.32
+Association rejected : O->W with confidence level: 0.16
+*** Association rule 2-itemset: T->C with confidence level: 0.57
+    "Thus child goes from :"    "whitecar"    "->"    "bluecar"
+
+Association rejected : C->J with confidence level: 0.2
+Association rejected : C->D with confidence level: 0.2
+Association rejected : P->E with confidence level: 0.33
+Association rejected : B->J with confidence level: 0.27
+Association rejected : V->J with confidence level: 0.25
+Association rejected : M->X with confidence level: 0.22
+Association rejected : K->U with confidence level: 0.29
+Association rejected : X->A with confidence level: 0.33
+Association rejected : Y->J with confidence level: 0.44
+Association rejected : U->A with confidence level: 0.25
+Association rule not established for 3-itemsets
+----------------------
+-------New File-------
+cevent_eye_roi_child_17757.mat
+Association rejected : V->W with confidence level: 0.33
+Association rejected : U->M with confidence level: 0.33
+Association rejected : M->R with confidence level: 0.29
+Association rejected : X->J with confidence level: 0.13
+Association rejected : X->B with confidence level: 0.13
+Association rejected : X->T with confidence level: 0.13
+Association rejected : X->O with confidence level: 0.13
+Association rejected : J->N with confidence level: 0.15
+Association rejected : J->O with confidence level: 0.15
+Association rejected : J->L with confidence level: 0.15
+Association rejected : R->W with confidence level: 0.29
+Association rejected : W->G with confidence level: 0.15
+Association rejected : W->T with confidence level: 0.15
+Association rejected : W->O with confidence level: 0.15
+Association rejected : B->T with confidence level: 0.17
+Association rejected : B->Q with confidence level: 0.25
+Association rejected : K->L with confidence level: 0.22
+Association rejected : I->C with confidence level: 0.5
+Association rejected : G->T with confidence level: 0.17
+Association rejected : F->T with confidence level: 0.25
+Association rejected : F->O with confidence level: 0.25
+Association rejected : T->Q with confidence level: 0.17
+Association rejected : T->H with confidence level: 0.11
+Association rejected : A->H with confidence level: 0.33
+Association rule NOT established for 2-itemsets
+Association rule not established for 3-itemsets
+----------------------
+-------New File-------
+cevent_eye_roi_child_17782.mat
+Association rejected : P->B with confidence level: 0.33
+Association rejected : P->O with confidence level: 0.33
+*** Association rule 2-itemset: F->O with confidence level: 0.67
+    "Thus child goes from :"    "snowman"    "->"    "doll"
+
+Association rejected : B->O with confidence level: 0.43
+Association rejected : W->H with confidence level: 0.33
+Association rejected : W->O with confidence level: 0.33
+*** Association rule 2-itemset: H->O with confidence level: 0.63
+    "Thus child goes from :"    "spongebob"    "->"    "doll"
+
+Association rejected : O->N with confidence level: 0.083
+Association rule not established for 3-itemsets
+----------------------
+-------New File-------
+cevent_eye_roi_child_17874.mat
+Association rejected : O->C with confidence level: 0.33
+Association rejected : O->K with confidence level: 0.33
+Association rejected : C->U with confidence level: 0.27
+Association rejected : G->Q with confidence level: 0.19
+Association rejected : G->B with confidence level: 0.19
+Association rejected : G->P with confidence level: 0.25
+Association rejected : G->A with confidence level: 0.13
+Association rejected : Q->B with confidence level: 0.26
+Association rejected : Q->U with confidence level: 0.23
+Association rejected : Q->H with confidence level: 0.065
+Association rejected : Q->D with confidence level: 0.065
+Association rejected : Q->V with confidence level: 0.097
+Association rejected : B->E with confidence level: 0.12
+Association rejected : B->U with confidence level: 0.24
+Association rejected : K->E with confidence level: 0.33
+Association rejected : E->U with confidence level: 0.3
+Association rejected : S->R with confidence level: 0.4
+Association rejected : U->A with confidence level: 0.074
+Association rejected : U->H with confidence level: 0.19
+Association rejected : J->A with confidence level: 0.2
+Association rule NOT established for 2-itemsets
+Association rule not established for 3-itemsets
+----------------------
+-------New File-------
+cevent_eye_roi_child_18796.mat
+Association rejected : Q->A with confidence level: 0.29
+Association rejected : B->F with confidence level: 0.25
+Association rejected : B->T with confidence level: 0.25
+Association rejected : F->W with confidence level: 0.14
+Association rejected : F->A with confidence level: 0.21
+Association rejected : N->V with confidence level: 0.38
+Association rejected : W->Y with confidence level: 0.18
+Association rejected : W->T with confidence level: 0.18
+Association rejected : W->O with confidence level: 0.27
+Association rejected : P->Y with confidence level: 0.5
+Association rejected : Y->V with confidence level: 0.25
+Association rejected : V->J with confidence level: 0.13
+Association rejected : V->I with confidence level: 0.13
+Association rejected : V->X with confidence level: 0.13
+Association rejected : T->O with confidence level: 0.29
+*** Association rule 2-itemset: I->A with confidence level: 0.6
+    "Thus child goes from :"    "turtle"    "->"    "helmet"
+
+Association rejected : U->K with confidence level: 0.2
+Association rejected : O->A with confidence level: 0.2
+Association rejected : D->K with confidence level: 0.33
+*** Association rule 2-itemset: G->A with confidence level: 0.67
+    "Thus child goes from :"    "rabbit"    "->"    "helmet"
+
+Association rule not established for 3-itemsets
+assignment
+Dataset consists of gaze streams with multiple categorical values
+Different categories indicate different region?of?interest
+Categories 1-25 are indicated by A -Y
+Please provide support threshold value eg. 2 : 2
+Please provide confidence threshold value eg. 0.5 : 0.5
+The support threshold is: 2
+The confidence threshold is: 0.5
+----------------------
+-------New File-------
+cevent_eye_roi_child_16963.mat
+*** Association rule 2-itemset: F->J with confidence level: 1
+    "Thus child goes from :"    "snowman"    "->"    "hammer"
+
+Association rejected : J->O with confidence level: 0.17
+Association rejected : J->B with confidence level: 0.17
+Association rejected : X->Q with confidence level: 0.33
+Association rejected : X->V with confidence level: 0.33
+Association rejected : R->U with confidence level: 0.29
+Association rejected : O->W with confidence level: 0.24
+Association rejected : O->U with confidence level: 0.12
+Association rejected : O->A with confidence level: 0.18
+Association rejected : B->I with confidence level: 0.3
+Association rejected : B->E with confidence level: 0.2
+Association rejected : M->U with confidence level: 0.3
+Association rejected : N->V with confidence level: 0.18
+Association rejected : N->E with confidence level: 0.18
+Association rejected : Q->V with confidence level: 0.25
+Association rejected : H->P with confidence level: 0.4
+--------------------------------------
+Association rejected : FJ->B with confidence level: 0.4
+Association rule not established for 3-itemsets
+----------------------
+-------New File-------
+cevent_eye_roi_child_17608.mat
+Association rejected : F->R with confidence level: 0.18
+Association rejected : F->P with confidence level: 0.18
+Association rejected : F->E with confidence level: 0.27
+Association rejected : R->G with confidence level: 0.15
+Association rejected : R->M with confidence level: 0.15
+Association rejected : R->K with confidence level: 0.15
+Association rejected : R->J with confidence level: 0.15
+Association rejected : Q->O with confidence level: 0.13
+Association rejected : Q->M with confidence level: 0.13
+Association rejected : Q->J with confidence level: 0.19
+Association rejected : Q->A with confidence level: 0.19
+Association rejected : O->A with confidence level: 0.32
+Association rejected : O->W with confidence level: 0.16
+*** Association rule 2-itemset: T->C with confidence level: 0.57
+    "Thus child goes from :"    "whitecar"    "->"    "bluecar"
+
+Association rejected : C->J with confidence level: 0.2
+Association rejected : C->D with confidence level: 0.2
+Association rejected : P->E with confidence level: 0.33
+Association rejected : B->J with confidence level: 0.27
+Association rejected : V->J with confidence level: 0.25
+Association rejected : M->X with confidence level: 0.22
+Association rejected : K->U with confidence level: 0.29
+Association rejected : X->A with confidence level: 0.33
+Association rejected : Y->J with confidence level: 0.44
+Association rejected : U->A with confidence level: 0.25
+Association rule not established for 3-itemsets
+----------------------
+-------New File-------
+cevent_eye_roi_child_17757.mat
+Association rejected : V->W with confidence level: 0.33
+Association rejected : U->M with confidence level: 0.33
+Association rejected : M->R with confidence level: 0.29
+Association rejected : X->J with confidence level: 0.13
+Association rejected : X->B with confidence level: 0.13
+Association rejected : X->T with confidence level: 0.13
+Association rejected : X->O with confidence level: 0.13
+Association rejected : J->N with confidence level: 0.15
+Association rejected : J->O with confidence level: 0.15
+Association rejected : J->L with confidence level: 0.15
+Association rejected : R->W with confidence level: 0.29
+Association rejected : W->G with confidence level: 0.15
+Association rejected : W->T with confidence level: 0.15
+Association rejected : W->O with confidence level: 0.15
+Association rejected : B->T with confidence level: 0.17
+Association rejected : B->Q with confidence level: 0.25
+Association rejected : K->L with confidence level: 0.22
+Association rejected : I->C with confidence level: 0.5
+Association rejected : G->T with confidence level: 0.17
+Association rejected : F->T with confidence level: 0.25
+Association rejected : F->O with confidence level: 0.25
+Association rejected : T->Q with confidence level: 0.17
+Association rejected : T->H with confidence level: 0.11
+Association rejected : A->H with confidence level: 0.33
+Association rule NOT established for 2-itemsets
+Association rule not established for 3-itemsets
+----------------------
+-------New File-------
+cevent_eye_roi_child_17782.mat
+Association rejected : P->B with confidence level: 0.33
+Association rejected : P->O with confidence level: 0.33
+*** Association rule 2-itemset: F->O with confidence level: 0.67
+    "Thus child goes from :"    "snowman"    "->"    "doll"
+
+Association rejected : B->O with confidence level: 0.43
+Association rejected : W->H with confidence level: 0.33
+Association rejected : W->O with confidence level: 0.33
+*** Association rule 2-itemset: H->O with confidence level: 0.63
+    "Thus child goes from :"    "spongebob"    "->"    "doll"
+
+Association rejected : O->N with confidence level: 0.083
+Association rule not established for 3-itemsets
+----------------------
+-------New File-------
+cevent_eye_roi_child_17874.mat
+Association rejected : O->C with confidence level: 0.33
+Association rejected : O->K with confidence level: 0.33
+Association rejected : C->U with confidence level: 0.27
+Association rejected : G->Q with confidence level: 0.19
+Association rejected : G->B with confidence level: 0.19
+Association rejected : G->P with confidence level: 0.25
+Association rejected : G->A with confidence level: 0.13
+Association rejected : Q->B with confidence level: 0.26
+Association rejected : Q->U with confidence level: 0.23
+Association rejected : Q->H with confidence level: 0.065
+Association rejected : Q->D with confidence level: 0.065
+Association rejected : Q->V with confidence level: 0.097
+Association rejected : B->E with confidence level: 0.12
+Association rejected : B->U with confidence level: 0.24
+Association rejected : K->E with confidence level: 0.33
+Association rejected : E->U with confidence level: 0.3
+Association rejected : S->R with confidence level: 0.4
+Association rejected : U->A with confidence level: 0.074
+Association rejected : U->H with confidence level: 0.19
+Association rejected : J->A with confidence level: 0.2
+Association rule NOT established for 2-itemsets
+Association rule not established for 3-itemsets
+----------------------
+-------New File-------
+cevent_eye_roi_child_18796.mat
+Association rejected : Q->A with confidence level: 0.29
+Association rejected : B->F with confidence level: 0.25
+Association rejected : B->T with confidence level: 0.25
+Association rejected : F->W with confidence level: 0.14
+Association rejected : F->A with confidence level: 0.21
+Association rejected : N->V with confidence level: 0.38
+Association rejected : W->Y with confidence level: 0.18
+Association rejected : W->T with confidence level: 0.18
+Association rejected : W->O with confidence level: 0.27
+Association rejected : P->Y with confidence level: 0.5
+Association rejected : Y->V with confidence level: 0.25
+Association rejected : V->J with confidence level: 0.13
+Association rejected : V->I with confidence level: 0.13
+Association rejected : V->X with confidence level: 0.13
+Association rejected : T->O with confidence level: 0.29
+*** Association rule 2-itemset: I->A with confidence level: 0.6
+    "Thus child goes from :"    "turtle"    "->"    "helmet"
+
+Association rejected : U->K with confidence level: 0.2
+Association rejected : O->A with confidence level: 0.2
+Association rejected : D->K with confidence level: 0.33
+*** Association rule 2-itemset: G->A with confidence level: 0.67
+    "Thus child goes from :"    "rabbit"    "->"    "helmet"
+
+Association rule not established for 3-itemsets
